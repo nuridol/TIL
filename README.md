@@ -8,5 +8,5 @@
 
 ### github
 
-- [Github Action으로 Til 만들기](github/github-action으로-TIL-만들기.md)
+- [Github Action으로 Til 만들기](github/github-action으로-TIL-만들기.md)
 
